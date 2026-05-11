@@ -1,0 +1,43 @@
+Key Responsibilities
+Build and maintain REST or GraphQL APIs using FastAPI, Django, or Flask.
+Design and optimize data pipelines with Pandas, NumPy, or PySpark.
+Integrate LLMs, vector databases, and agent frameworks where applicable.
+Write comprehensive tests using pytest and maintain CI/CD workflows.
+Deploy and monitor services on AWS, GCP, or similar cloud platforms.
+Participate in code reviews and architecture discussions.
+Required Skills & Qualifications
+1+ years of professional Python development experience (juniors welcome).
+Familiarity with at least one web framework: FastAPI, Django, or Flask.
+Strong SQL and relational database fundamentals.
+Experience with Git, testing, and async communication.
+Clear written English and ability to work independently.
+Strong understanding of Python typing, packaging, and modern tooling.
+
+Preferred Qualifications
+Experience integrating LLMs or AI APIs (OpenAI, Anthropic, LangChain, LlamaIndex).
+Secondary language proficiency: TypeScript, Go, or Rust.
+Data engineering tools (Airflow, dbt, Snowflake, BigQuery).
+DevOps experience with Terraform, Kubernetes, or observability tools.
+Experience with Celery, Redis, or async Python patterns.
+
+AIML
+Key Responsibilities:
+Develop, test, and deploy AI/ML models using Python-based frameworks.
+Build and optimize data pipelines for training and inference processes.
+Implement supervised, unsupervised, and deep learning algorithms based on project requirements.
+Integrate AI/ML models into production systems and applications.
+Perform data preprocessing, feature engineering, and statistical analysis.
+Collaborate with cross-functional teams to gather requirements and deliver suitable technical solutions.
+Write clean, scalable, and efficient Python code.
+Prepare clear and professional documentation, reports, and model performance summaries.
+Bachelor’s or Master’s degree in Computer Science, Data Science, AI/ML, or a related field.
+Strong proficiency in Python and core libraries (NumPy, Pandas, Scikit-learn).
+Hands-on experience with deep learning frameworks such as TensorFlow or PyTorch.
+Solid understanding of machine learning algorithms and modeling techniques.
+Experience in data preprocessing, model training, evaluation, and deployment.
+Knowledge of REST APIs, cloud platforms (AWS/GCP/Azure), and version control tools (Git) is a plus.
+Strong analytical, problem-solving, and communication skills.
+Excellent English proficiency (spoken and written) is mandatory.
+Experience with NLP, LLMs, or Generative AI.
+Familiarity with MLOps tools (Docker, Kubernetes, MLflow).
+Exposure to big data technologies (Spark, Hadoop) is a plus.

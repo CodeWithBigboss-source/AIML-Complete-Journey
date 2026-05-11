@@ -1,0 +1,2 @@
+import abuzar
+abuzar.Hello()

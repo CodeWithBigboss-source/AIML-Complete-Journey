@@ -1,0 +1,14 @@
+Roadmap for AI/ML:
+
+1) Python basics
+2) TensorFlow or PyTorch (used for implementing ML algorithms)
+3) Numpy basics (just quick start from its docs to get idea of an ndarray)
+4) Pandas basics (able to manipulate csv file data)
+Note: can use Python for Data Analysis book by Wes McKinney for numpy and pandas
+5) Statistics and Linear Algebra (refer to notes of Queen Mary research)
+6) Probability (refer to probability and statistics in engineering book by William Hines, no need to read this entirely, just use as reference when required)
+7) Linear Regression and Gradient Descent
+8) All algorithms under supervised learning and unsupervised learning (use Mining of Massive Datasets book by Jure Leskovec)
+9) learn Clustering and implement using Scikit-Learn
+10) Use hands on machine learning with scikit learn, keras and tensorflow book by Aurelien Geron
+

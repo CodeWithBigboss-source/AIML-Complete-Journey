@@ -1,0 +1,3 @@
+we printed line 1
+we printed line 2
+we printed line 3

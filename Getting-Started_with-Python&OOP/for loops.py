@@ -1,0 +1,19 @@
+# name="ahsan"
+# for i in name:
+#     print(i)
+
+# colors=["Red", "BLue", "Green","Black"]
+# for color in colors:
+#     print(color)
+#     for i in color:
+#         print(i)
+
+# for k in range(20):
+#     print (k)
+
+# for k in range(20):
+#     print (k+1)
+
+# for k in range(20000):
+#     print("Ahsan Is Bigboss")
+#     print (k)
