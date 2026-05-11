@@ -1,0 +1,10 @@
+# import numpy as np
+# x = np.array([1,2,3,4])
+# print("datatype:",x.dtype)
+# y = np.array([1.5,2.6,3.2,4])
+# print("datatype:",x.dtype)
+# z = np.array(["as","fdsa"])
+# print("datatype:",x.dtype)
+# print("datatype:",y.dtype)
+# print("datatype:",z.dtype)
+len("Python")
