@@ -1,0 +1,16 @@
+Dataset = gives data
+Preprocessing = cleans data
+Model = learns patterns
+Splitters = divide data
+
+
+fit()
+it only allows to learn data but does not change it
+
+fit_transform
+it studies then transforms data
+while transform changes data on what it has learned like mean and std
+we only use transfrom on testing  not training because if we use it on training then data leakage will occur
+
+
+Just Create a model You: FIT->SCORE->PREDICT
