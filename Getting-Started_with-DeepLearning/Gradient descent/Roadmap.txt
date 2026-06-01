@@ -1,0 +1,503 @@
+# Deep Learning Roadmap (Practical AI Engineer Path)
+
+You already studied:
+
+* gradient descent
+* forward propagation
+* backpropagation
+* loss
+* epochs
+* optimization
+* activation functions
+
+That means you have crossed the MOST confusing beginner stage.
+
+Now your roadmap should focus on:
+
+```text id="jlwm6t"
+understanding how real deep learning systems are built
+```
+
+not just isolated concepts.
+
+---
+
+# PHASE 1 — Deep Learning Foundations (You Are Here)
+
+You already know:
+
+* gradients
+* training loops
+* ReLU
+* sigmoid
+* softmax
+* dropout
+* regularization
+
+Now COMPLETE this phase by learning:
+
+---
+
+# 1. Neural Network Architecture
+
+Learn:
+
+* input layer
+* hidden layers
+* output layer
+* neurons
+* weights
+* biases
+
+Understand:
+
+genui{"math_block_widget_always_prefetch_v2":{"content":"y=wx+b"}}
+
+inside neural networks.
+
+---
+
+# 2. Loss Functions
+
+MUST KNOW:
+
+## Regression
+
+* MSELoss
+* MAE
+
+## Classification
+
+* CrossEntropyLoss
+* BCEWithLogitsLoss
+
+Learn:
+
+* when each is used
+* why
+
+---
+
+# 3. Optimizers
+
+MUST KNOW:
+
+* SGD
+* Adam
+* AdamW
+* RMSprop
+
+Understand:
+
+* learning rate
+* momentum
+* convergence
+
+---
+
+# 4. Data Handling in PyTorch
+
+VERY IMPORTANT.
+
+Learn:
+
+* Dataset
+* DataLoader
+* batching
+* shuffling
+
+This is real-world deep learning infrastructure.
+
+---
+
+# 5. Model Evaluation
+
+MUST LEARN:
+
+## Regression Metrics
+
+* MSE
+* RMSE
+* MAE
+
+## Classification Metrics
+
+* accuracy
+* precision
+* recall
+* F1-score
+
+---
+
+# 6. Overfitting vs Underfitting
+
+Learn:
+
+* train loss vs validation loss
+* regularization
+* dropout
+* early stopping
+
+---
+
+# PHASE 2 — Build Core Projects
+
+This phase builds REAL skill.
+
+---
+
+# Project 1 — House Price Predictor
+
+Learn:
+
+* regression
+* datasets
+* evaluation
+
+---
+
+# Project 2 — MNIST Digit Classifier
+
+VERY IMPORTANT.
+
+Learn:
+
+* image classification
+* neural networks
+* accuracy
+
+---
+
+# Project 3 — Fashion MNIST
+
+Slightly harder image classification.
+
+---
+
+# Project 4 — Spam Email Classifier
+
+Learn:
+
+* NLP basics
+* text preprocessing
+
+---
+
+# PHASE 3 — Computer Vision (VERY IMPORTANT)
+
+This is where deep learning becomes powerful.
+
+---
+
+# 1. CNNs (Convolutional Neural Networks)
+
+MOST IMPORTANT TOPIC.
+
+Learn:
+
+* convolution
+* filters
+* kernels
+* feature maps
+* pooling
+
+CNNs power:
+
+* image recognition
+* object detection
+* medical imaging
+
+---
+
+# MUST BUILD
+
+## Cat vs Dog Classifier
+
+---
+
+# 2. Transfer Learning
+
+VERY IMPORTANT INDUSTRY SKILL.
+
+Use pretrained models:
+
+* ResNet
+* EfficientNet
+* MobileNet
+
+Learn:
+
+```text id="jlwm1u2"
+how to fine-tune models
+```
+
+This is what real engineers do.
+
+---
+
+# 3. Object Detection
+
+Learn:
+
+* YOLO
+* bounding boxes
+
+Build:
+
+* webcam detector
+
+---
+
+# PHASE 4 — Sequence Models / NLP
+
+---
+
+# 1. RNNs
+
+Learn:
+
+* sequential data
+* hidden states
+
+---
+
+# 2. LSTM & GRU
+
+Learn:
+
+* long-term memory
+* text prediction
+
+---
+
+# 3. Attention Mechanism
+
+EXTREMELY IMPORTANT.
+
+Foundation of transformers.
+
+---
+
+# 4. Transformers
+
+MOST IMPORTANT MODERN TOPIC.
+
+Learn:
+
+* self-attention
+* embeddings
+* encoder/decoder
+
+---
+
+# 5. LLM Fundamentals
+
+Learn:
+
+* tokenization
+* embeddings
+* fine-tuning
+* inference
+
+---
+
+# PHASE 5 — Real AI Engineering
+
+This is where you become employable.
+
+---
+
+# 1. Model Deployment
+
+Learn:
+
+* FastAPI
+* Flask
+* APIs
+
+Serve models.
+
+---
+
+# 2. GPU Training
+
+Learn:
+
+* CUDA
+* training on GPU
+
+---
+
+# 3. Experiment Tracking
+
+Learn:
+
+* TensorBoard
+* Weights & Biases
+
+---
+
+# 4. Model Saving & Loading
+
+Learn:
+
+* TorchScript
+* checkpoints
+
+---
+
+# 5. Hugging Face
+
+VERY IMPORTANT TODAY.
+
+Learn:
+
+* transformers library
+* pretrained LLMs
+
+---
+
+# PHASE 6 — Advanced Deep Learning
+
+ONLY after strong fundamentals.
+
+---
+
+# 1. GANs
+
+Generate:
+
+* images
+* videos
+
+---
+
+# 2. Diffusion Models
+
+Used in:
+
+* image generation
+* Stable Diffusion
+
+---
+
+# 3. Reinforcement Learning
+
+Used in:
+
+* robotics
+* agents
+* games
+
+---
+
+# IMPORTANT: WHAT YOU ACTUALLY NEED TO MASTER
+
+To “get a hold” of deep learning models, you MUST become strong at:
+
+---
+
+# Core Understanding
+
+You should deeply understand:
+
+* forward propagation
+* gradients
+* backpropagation
+* activations
+* optimization
+
+(which you are already learning)
+
+---
+
+# Training Models
+
+You must know:
+
+* how to train
+* debug
+* improve models
+
+---
+
+# Reading Model Architectures
+
+You should eventually understand:
+
+* why CNNs work
+* why transformers work
+* why attention works
+
+---
+
+# Practical Engineering
+
+You must be able to:
+
+* build projects
+* use datasets
+* deploy models
+* debug errors
+
+---
+
+# MOST IMPORTANT THING
+
+Do NOT study:
+
+```text id="jlwm7u"
+100 topics theoretically
+```
+
+Instead:
+
+```text id="’wini8"
+Learn → Build → Modify → Experiment
+```
+
+That is how real AI engineers learn.
+
+---
+
+# YOUR NEXT STEP RIGHT NOW
+
+Since you already learned:
+
+* gradient descent
+* activations
+
+You should NEXT do:
+
+---
+
+# IMMEDIATE NEXT TOPICS
+
+1. Neural network architecture
+2. Loss functions deeply
+3. DataLoader + batching
+4. Train/test split
+5. Evaluation metrics
+6. Build MNIST classifier
+7. Learn CNNs
+
+---
+
+# THIS IS THE CRITICAL TURNING POINT
+
+Once you build:
+
+* MNIST classifier
+* CNN image classifier
+
+you stop being:
+
+```text id="jlwm2v2"
+someone learning concepts
+```
+
+and start becoming:
+
+```text id="jlwm5v"
+someone who can build deep learning systems
+```
